@@ -15,6 +15,9 @@ A python script game based on a madlibs game where you input random adjectives a
 Python flower:
 A drawing of a flower in python
 
+Text based adventure game:
+This is a bigger project i am working on which is a Text based adventure game, i have finished the opening basic parts of it, but i will be adding more
+
 My goals:
 Build a strong and adaptable fondation on python
 Progress ultimately into C++ for Robotics
